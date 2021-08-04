@@ -1,2 +1,2 @@
 # Invoice-App
-create Invoice app with vue.js &amp; firebase
+create Invoice app with vue.js &amp; vuex  &amp; firebase
